@@ -9,7 +9,7 @@ Client:
 It runs on windows.
 
 
-Citation:
-Our paper has beed accepted:
-Title: An Artificial Intelligence System for Distinguishing between Gastrointestinal Stromal Tumors and Leiomyomas Using Endoscopic Ultrasonography (with video)
+Citation:    
+Our paper has beed accepted:     
+Title: An Artificial Intelligence System for Distinguishing between Gastrointestinal Stromal Tumors and Leiomyomas Using Endoscopic Ultrasonography (with video)     
 Paper DOI：10.1055/a-1476-8931

@@ -1,6 +1,7 @@
 ## GIST-GIL_classifier_using-EUS
+
 An deep learning-based GIST/GIL classifier using EUS. This classifer is shared for researching and learning only not for commercial use. We own the copyrights of this software. The classifier is developped using EUS images by UM-DP12-25R, and UM-DP20-25R (Olympus, Tokyo, Japan). According to our research, the classifier is only suitable for these EUS probes.
----------
+
 
 How to use the classifier:
 
